@@ -9,13 +9,13 @@
 }
 .heading_left{
 position: absolute;
-left: 5;
+left: 5px;
 top: 0;
 }
 .heading_right{
 position: absolute;
 top: 0;
-right: 5;
+right: 5px;
 }
 .sub_heading_left{
 position: absolute;
@@ -33,4 +33,5 @@ top:0;
 	padding : 50px 0px;
 
 }
+
 
