@@ -4,8 +4,11 @@
     nav red    = #b75556
 	
  */
+ .body{
+ }
 .heading{
 	background-color:#c82020; 
+	color: white;
 }
 .heading_left{
 position: absolute;
@@ -27,10 +30,46 @@ position: absolute;
 top:0;
 }
 .footer_heading{
-
+position: absolute;
+right: 5;
+top: 0;
 }
 .vertical{
 	padding : 50px 0px;
 
 }
+.navbar-default{
+	border: none;
+	background :white;
+}
 
+.h2{
+	color: black;
+}
+.logo img{
+	width: 100%;
+	height: 170px;
+	margin-left: 20px;
+}
+.social{
+	line-height: 175px;
+	margin-left: 
+}
+.social a{
+	text-decoration: none;
+	color: inherit;
+	padding-right: 5px;
+}
+.btn-default {
+    color: #fff;
+    background-color: #c82020;
+    border-color: #c82020;
+}
+.nav-justified {
+    width: 100%;
+    line-height: 170px;
+    font-size: 15pt;
+}
+.nav-justified li a{
+	color: #c82020;
+}
