@@ -15,7 +15,7 @@ top: 0;
 .heading_right{
 position: absolute;
 top: 0;
-right: 0;
+right: 5;
 }
 .sub_heading_left{
 position: absolute;
@@ -24,7 +24,7 @@ left: 0;
 }
 .sub_heading_right{
 position: absolute;
-top:0
+top:0;
 }
 .footer_heading{
 
