@@ -31,7 +31,7 @@ top:0;
 }
 .footer_heading{
 position: absolute;
-right: 5;
+right: 5px;
 top: 0;
 }
 .vertical{
@@ -53,7 +53,6 @@ top: 0;
 }
 .social{
 	line-height: 175px;
-	margin-left: 
 }
 .social a{
 	text-decoration: none;
