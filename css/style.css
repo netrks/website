@@ -33,7 +33,11 @@ top:0px;
 .footer_heading{
 position: absolute;
 right: 5px;
+<<<<<<< HEAD
 top: 0px;
+=======
+top: 0;
+>>>>>>> 02bf40ddcb30dc9bf8e860018eda5f02abab74eb
 }
 .vertical{
 	padding : 50px 0px;
@@ -45,9 +49,6 @@ top: 0px;
 	padding-bottom: 0px;
 }
 
-<<<<<<< HEAD
-
-=======
 .h2{
 	color: black;
 }
@@ -58,7 +59,6 @@ top: 0px;
 }
 .social{
 	line-height: 175px;
-	margin-left: 
 }
 .social a{
 	text-decoration: none;
@@ -79,6 +79,7 @@ top: 0px;
 	color: #c82020;
 }
 
+<<<<<<< HEAD
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     line-height: 1;
@@ -89,3 +90,5 @@ h3{
 	font-size: 30pt;
 	padding-left: 50px;
 }
+=======
+>>>>>>> 02bf40ddcb30dc9bf8e860018eda5f02abab74eb
