@@ -15,32 +15,29 @@
 .heading_left{
 position: absolute;
 left: 5px;
-top: 0px;
+top: 0;
 }
 
 .heading_right{
 position: absolute;
-top: 0px;
+top: 0;
 right: 5px;
 }
 
 .sub_heading_left{
 position: absolute;
-top: 0px;
-left: 0px;
+top: 0;
+left: 0;
 }
 .sub_heading_right{
 position: absolute;
-top:0px;
+top:0;
 }
 .footer_heading{
 position: absolute;
 right: 5px;
-<<<<<<< HEAD
-top: 0px;
-=======
 top: 0;
->>>>>>> 02bf40ddcb30dc9bf8e860018eda5f02abab74eb
+
 }
 .vertical{
 	padding : 50px 0px;
@@ -82,8 +79,6 @@ top: 0;
 	color: #c82020;
 }
 
-<<<<<<< HEAD
-
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     line-height: 1;
     width: 100%;
@@ -93,5 +88,3 @@ h3{
 	font-size: 30pt;
 	padding-left: 50px;
 }
-=======
->>>>>>> 02bf40ddcb30dc9bf8e860018eda5f02abab74eb
