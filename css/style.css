@@ -10,16 +10,19 @@
 	background-color:#c82020; 
 	color: white;
 }
+
 .heading_left{
 position: absolute;
 left: 5px;
 top: 0;
 }
+
 .heading_right{
 position: absolute;
 top: 0;
 right: 5px;
 }
+
 .sub_heading_left{
 position: absolute;
 top: 0;
