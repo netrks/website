@@ -4,3 +4,33 @@
     nav red    = #b75556
 	
  */
+.heading{
+	background-color:#c82020; 
+}
+.heading_left{
+position: absolute;
+left: 5;
+top: 0;
+}
+.heading_right{
+position: absolute;
+top: 0;
+right: 0;
+}
+.sub_heading_left{
+position: absolute;
+top: 0;
+left: 0;
+}
+.sub_heading_right{
+position: absolute;
+top:0
+}
+.footer_heading{
+
+}
+.vertical{
+	padding : 50px 0px;
+
+}
+
